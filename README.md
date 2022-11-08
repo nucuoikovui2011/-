@@ -326,6 +326,7 @@
       }, 10);
     })(document.getElementById('pinkboard'));
   </script>
+   <img src="https://file.vfo.vn/hinh/2015/12/meo-con-dang-yeu-lam-hinh-nen-may-tinh-16.jpg">
 </BODY>
 
 </HTML>
